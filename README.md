@@ -20,3 +20,5 @@ https://code.google.com/p/dkpro-core-asl/wiki/Configuration
 
 Other knowledge based similarity measure:
 https://code.google.com/p/dkpro-similarity-asl/source/browse/trunk/dkpro.similarity.algorithms.lsr-asl/src/main/java/dkpro/similarity/algorithms/lsr/path/
+
+test
